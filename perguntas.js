@@ -1,7 +1,7 @@
 criaCartao(
-    'Progrmação',
-    'O que é HTML?',
-    'Linguagem de marcação'
+    'Conto de fadas',
+    'quem se casou com ana?',
+    'kristoff'
 )
 
 criaCartao(
